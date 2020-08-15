@@ -1,1 +1,1 @@
-This is a MEAN stack web application. To compile, run npm install in api and frontend. Serve the angular application in frontend. Run node app.js in api. You're g2g. You also need to make sure you have the components of the mean stack installed.
+This is a MEAN stack web application. To compile, run npm install in api and frontend. Serve the angular application in frontend. Run node app.js in api within a terminal. You also need to make sure you have the components of the MEAN stack installed.
